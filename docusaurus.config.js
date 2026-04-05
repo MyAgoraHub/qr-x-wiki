@@ -10,9 +10,9 @@ const config = {
   tagline: 'Advanced QR Code Scanning, Creating & Classification',
   favicon: 'img/logo.png',
 
-  url: 'https://github.com',
+  url: 'https://myagorahub.github.io',
   baseUrl: '/qr-x-wiki/',
-  organizationName: 'your-org',
+  organizationName: 'MyAgoraHub',
   projectName: 'qr-x-wiki',
   deploymentBranch: 'gh-pages',
 
