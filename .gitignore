@@ -5,7 +5,6 @@ build/
 # Dependencies
 node_modules/
 yarn.lock
-package-lock.json
 
 # Environment
 .env.local
