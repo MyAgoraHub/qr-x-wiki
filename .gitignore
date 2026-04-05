@@ -1,0 +1,24 @@
+# Docusaurus
+build/
+.docusaurus/
+
+# Dependencies
+node_modules/
+yarn.lock
+package-lock.json
+
+# Environment
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.context/
